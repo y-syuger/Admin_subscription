@@ -1,0 +1,10 @@
+[
+    {
+        "service_name": "Netflix",
+        "cost": 1000,
+        "payment_date": "2021-01-01",
+        "start_date": "2020-01-01",
+        "payment_method": "Credit Card",
+        "notes": "Netflix Premium"
+    }
+]
