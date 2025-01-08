@@ -1,0 +1,10 @@
+[
+    {
+        "service_name": "serviceA",
+        "payment_type": "\u5e74\u984d",
+        "cost": 1000.0,
+        "payment_date": "2025-1-10",
+        "start_date": "2025-1-1",
+        "note": "None"
+    }
+]
